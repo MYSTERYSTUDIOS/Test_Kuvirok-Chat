@@ -1,5 +1,69 @@
 Third Person LAN Multiplayer Project (UE 5.4.4)
 
+English/EN
+
+📌 Project Description
+
+This project is a basic prototype of a third-person game developed using Unreal Engine 5.4.4.
+
+This project was completed as part of a test project for LAZERTAG and demonstrates the implementation of basic multiplayer mechanics using a local area network (LAN).
+
+⸻
+
+🎮 Implemented Features 
+• 🌀 Dodge Roll 
+• Activated by the Q key 
+• Fully synchronized over the network (server-authoritative) 
+• Works correctly in multiplayer 
+• 💬 Multiplayer Chat 
+• Messaging between players 
+• Works within a single server 
+• 🌐 LAN Multiplayer 
+• Creating and connecting to a server via IP address 
+• Works exclusively on a local network
+
+⸻
+
+🛠 Technologies Used 
+• Unreal Engine 5.4.4 
+• Blueprints (core logic) 
+• Client-server architecture (LAN)
+
+⸻
+
+📥 Installation
+
+Go to the Releases section and download the archive with the game or Unreal Engine project.
+Unzip the archive to any folder
+⸻
+
+🚀 How to run
+
+Run the .exe file (Build)
+One player creates a server
+Other players connect via the host's IP address
+Use: • Q — roll • Chat — for communication between players
+⸻
+
+📦 Repository structure 
+• Game_TestKUVIROKCHAT.zip — the completed project build 
+• UEProject_TestKUVIROKCHAT.zip — the original Unreal Engine project
+
+⸻
+
+📷 Notes 
+• This project is for demonstration purposes only 
+• The focus is on network logic and mechanics, not visuals
+
+⸻
+
+👨‍💻 Author
+
+Denis Galeev, Unreal Engine Developer (Blueprints, C++)
+
+
+Русский/RU
+
 📌 Описание проекта
 
 Данный проект представляет собой базовый прототип игры от третьего лица, разработанный на Unreal Engine 5.4.4.
