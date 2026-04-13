@@ -11,23 +11,23 @@ This project was completed as part of a test project for LAZERTAG and demonstrat
 ⸻
 
 🎮 Implemented Features 
-• 🌀 Dodge Roll 
-• Activated by the Q key 
-• Fully synchronized over the network (server-authoritative) 
-• Works correctly in multiplayer 
-• 💬 Multiplayer Chat 
-• Messaging between players 
-• Works within a single server 
-• 🌐 LAN Multiplayer 
-• Creating and connecting to a server via IP address 
-• Works exclusively on a local network
+ • 🌀 Dodge Roll 
+ • Activated by the Q key 
+ • Fully synchronized over the network (server-authoritative) 
+ • Works correctly in multiplayer 
+ • 💬 Multiplayer Chat 
+ • Messaging between players 
+ • Works within a single server 
+ • 🌐 LAN Multiplayer 
+ • Creating and connecting to a server via IP address 
+ • Works exclusively on a local network
 
 ⸻
 
 🛠 Technologies Used 
-• Unreal Engine 5.4.4 
-• Blueprints (core logic) 
-• Client-server architecture (LAN)
+ • Unreal Engine 5.4.4 
+ • Blueprints (core logic) 
+ • Client-server architecture (LAN)
 
 ⸻
 
@@ -42,18 +42,20 @@ Unzip the archive to any folder
 Run the .exe file (Build)
 One player creates a server
 Other players connect via the host's IP address
-Use: • Q — roll • Chat — for communication between players
+Use: 
+ • Q — roll 
+ • Chat — for communication between players
 ⸻
 
 📦 Repository structure 
-• Game_TestKUVIROKCHAT.zip — the completed project build 
-• UEProject_TestKUVIROKCHAT.zip — the original Unreal Engine project
+ • Game_TestKUVIROKCHAT.zip — the completed project build 
+ • UEProject_TestKUVIROKCHAT.zip — the original Unreal Engine project
 
 ⸻
 
 📷 Notes 
-• This project is for demonstration purposes only 
-• The focus is on network logic and mechanics, not visuals
+ • This project is for demonstration purposes only 
+ • The focus is on network logic and mechanics, not visuals
 
 ⸻
 
